@@ -1,0 +1,1 @@
+summarize : đánh_giá nghiệm_thu cấp quốc_gia các nhiệm_vụ thuộc dự_án kh cn . 1 .

@@ -1,0 +1,1 @@
+summarize : quản lý quá_trình học_tập của học_viên , đánh giá kết_quả học tập và cấp bảng điểm thi tuyển viên chức .

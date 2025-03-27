@@ -1,0 +1,1 @@
+summarize : thủ_trưởng cơ quan , tổ chức chủ nhiệm văn phòng , tổ trưởng phụ trách kế hoạch và tổ chức hoạt động của trung tâm dịch vụ việc_làm .

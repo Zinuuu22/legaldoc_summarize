@@ -1,0 +1,1 @@
+summarize : căn cứ kế_hoạch bảo_trì công_trình xây dựng , phân loại và giá " bằng giá thị_trường " .

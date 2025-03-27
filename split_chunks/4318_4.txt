@@ -1,0 +1,2 @@
+### Chunk 4 ###
+mẫu lưu cần ghi vào_sổ các thông_tin : tên chế_phẩm ( hãng sản_xuất , lô sản_xuất , ngày sản_xuất , hạn sử_dụng ) , hoạt_chất ( cas number , who code ) , liều_lượng thử_nghiệm , ngày thử_nghiệm , cơ_quan yêu_cầu .

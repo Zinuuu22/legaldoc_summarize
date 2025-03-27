@@ -1,0 +1,1 @@
+summarize : thông_tư hướng_dẫn việc lập và quản_lý chi_phí bảo_trì cho công_trình xây_dựng , hạng_mục công_mỗ công trình theo yêu_cầu của quy_thác và sử_dụng công trình .

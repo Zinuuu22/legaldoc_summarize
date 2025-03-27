@@ -1,0 +1,1 @@
+summarize : thời_hạn gửi báo_cáo : muộn nhất sau 03 ( ba ) ngày làm_việc kể từ khi xảy ra hoặc phát hiện hiện trường_hợp đột xuất .

@@ -1,0 +1,1 @@
+Nếu là công-nhân thì phải là công_nhân bậc 5/7 trở lên của chuyên_ngành sản_xuất .

@@ -1,0 +1,1 @@
+summarize : học viên được kiểm tra và thi lại 02 lần nếu bài kiểm_tra kết_thúc chuyên_đề hoặc cuối khóa học bồi_dưỡng không đạt yêu cầu .

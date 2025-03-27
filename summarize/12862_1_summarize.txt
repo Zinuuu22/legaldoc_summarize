@@ -1,0 +1,1 @@
+summarize : thông tin về mã_số quản_lý đối với nhà cung cấp dịch vụ quảng cáo bằng thư điện_tử ; nhà phân phối dịch vụ tin nhắn qua mạng internet .

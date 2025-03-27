@@ -1,0 +1,1 @@
+summarize : số tiền thu được từ việc xử lý lý lý tài sản cho thuê dùng để thanh/toán khoản tiền còn thiếu của bên thuê và các chi_phí phát_sinh trong quá_trình thu_hồi tài_sản cho thuê .

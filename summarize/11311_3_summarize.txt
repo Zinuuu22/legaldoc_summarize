@@ -1,0 +1,1 @@
+Nếu người nhập_cảnh mang nguyên chai , bình , lọ , can có dung_tích lớn hơn không quá 01 ( một ) lít so với định mức quy_định thì được miễn thuế cả chai .

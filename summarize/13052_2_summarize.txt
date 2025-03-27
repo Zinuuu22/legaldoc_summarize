@@ -1,0 +1,1 @@
+2. phôi_thẻ gồm các mẫu sau : mặt trước là màu đỏ , chữ in màu vàng , mặt sau là dòng chữ in hoa thẻ kiểm tra thị_trường , phía dưới là các tia hoa ( hoa ) lan_tỏa ra xung quanh .

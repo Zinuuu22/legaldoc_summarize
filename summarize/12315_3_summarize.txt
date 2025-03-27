@@ -1,0 +1,1 @@
+summarize : phương pháp xác định chi_phí trong thực_hiện bảo_trì công_trình , kiểm tra công trình thường_xuyên , định 'kỳ và đột ' xuất ; bảo_dưỡng công trình xây dựng .

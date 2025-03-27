@@ -1,0 +1,1 @@
+summarize : sửa_đổi các thông tin về mức lương tối_thiểu vùng đối với người lao động làm việc ở công ty , doanh nghiệp , hợp tác xã , trang_trại , hộ gia đình , cá nhân và các tổ_chức khác .

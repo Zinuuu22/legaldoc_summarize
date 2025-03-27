@@ -1,0 +1,1 @@
+summarize : công-chức cấp xã bao_gồm các cán_bộ không chuyên_trách ở thôn và tổ dân_phố .

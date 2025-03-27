@@ -1,0 +1,2 @@
+### Chunk 5 ###
+đối_với người sử_dụng được cấp_thiết_bị chứng_thư số , ngoài các điều_kiện quy_định tại các khoản 1 , 2 và 3 điều này , máy vi_tính của người sử_dụng phải được cài_đặt phần_mềm quản_lý thiết_bị lưu khóa bí_mật ( etoken ) do ban_cơ_yếu chính_phủ cấp kèm theo thiết_bị và kết_nối hạ_tầng truyền_thông của bộ tài_chính hoặc kết_nối internet . người sử_dụng được cấp etoken và mật_khẩu etoken để bảo_mật .

@@ -1,0 +1,1 @@
+Hàng tháng , tổ chức thu phí phải nộp toàn bộ số tiền phí đã thu của tháng trước vào tài khoản chờ nộp ngân sách mở tại kho_bạc nhà nước .

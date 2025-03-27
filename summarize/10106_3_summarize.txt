@@ -1,0 +1,1 @@
+summarize : các mặt_hàng thuộc phân nhóm 6 số và 8 số thuộc nhóm 3707 được áp dụng mức thuế 'suất thuế giá 'trị gia_tăng ghi tương ứng ứng là 10 .

@@ -1,0 +1,1 @@
+Theo stt dụng_cụ , bộ dữ liệu tài nguyên và môi trường sẽ được chuyển về hệ tọa_độ chuẩn_hóa dữ_liệu .

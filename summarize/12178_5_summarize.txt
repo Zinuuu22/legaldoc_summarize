@@ -1,0 +1,1 @@
+summarize : trường_hợp gia_hạn giấy_phép thành lập văn_phòng đại_diện , công ty có trụ sở đại diện tại Việt Nam .

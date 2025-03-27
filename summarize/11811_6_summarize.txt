@@ -1,0 +1,1 @@
+summarize : trường hợp một cá nhân mắc phải lỗi nhập thông tin trong chứng từ điện_tử nhưng hệ_thống thông tin tự_động của bên khác không hỗ trợ cho cá nhân đó sửa lại lỗi thì có quyền rút 'bỏ ' phần chứng từ này .

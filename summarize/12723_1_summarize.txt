@@ -1,0 +1,1 @@
+summarize : thông_tư quy_định mức điều_chỉnh tiền_lương , tiền công và thu_nhập tháng đã đóng bảo_hiểm xã_hội .

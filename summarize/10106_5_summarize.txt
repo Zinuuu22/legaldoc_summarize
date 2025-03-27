@@ -1,0 +1,1 @@
+các thiết bị thuộc nhóm 2206 như băng , băng và các loại đĩa , băng khác được ghi chung một mức thuế 'suất thuế giá 'trị gia_tăng là 10 . nếu các mặt hàng thuộc nhóm này được xác 'định là rượu ' thì không thuộc đối 'tượng chịu thuế .

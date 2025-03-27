@@ -1,0 +1,1 @@
+summarize : người lao_động làm việc tại công_ty nhà_nước nhưng có thời gian làm việc 223 tháng , làm_tròn thành 18 năm và mức trợ_cấp thôi_việc là 25 .

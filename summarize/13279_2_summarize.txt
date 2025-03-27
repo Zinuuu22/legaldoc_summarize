@@ -1,0 +1,1 @@
+summarize : căn_hộ thuộc các chung_cư được phân thành các loại căn hộ khác nhau , được hình thành và phát triển .

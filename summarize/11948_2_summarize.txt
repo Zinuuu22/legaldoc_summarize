@@ -1,0 +1,1 @@
+summarize : tổ_chức xác_định đối tượng hộ gia_đình có mức_sống trung bình , làm nông , lâm , ngư , ngiệp và diêm_nghiệp .

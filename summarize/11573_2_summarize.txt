@@ -1,0 +1,1 @@
+summarize : công_ty cổ_phần có vốn đầu_tư nước_ngoài . 10.

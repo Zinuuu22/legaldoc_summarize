@@ -1,0 +1,1 @@
+summarize : chủ sở hữu hoặc người quản_lý sử_dụng công trình xây dựng có trách_nhiệm trong việc lập , thẩm_định , phê duyệt dự án hoặc dự_oán sửa_chữa , cải_tạo , nâng_cấp công_trình .

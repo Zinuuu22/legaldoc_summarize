@@ -1,0 +1,1 @@
+" Căn cứ vào thông báo này , các đơn vị lập danh sách và cấp phát tiền_lương , phụ_cấp cho các đối tượng được hưởng . "

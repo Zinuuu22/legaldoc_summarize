@@ -1,0 +1,1 @@
+summarize : cán bộ , công-chức ở xã , phường , thị_trấn và những người hoạt động không chuyên-trách ở cấp xã , ở thôn , tổ dân_phố .

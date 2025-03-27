@@ -1,0 +1,2 @@
+### Chunk 5 ###
+a ) yêu_cầu nhà phân_phối lpg cung_cấp hồ_sơ chất_lượng sản_phẩm ( bao_gồm tên , chủng_loại , tiêu_chuẩn công_bố , nguồn_gốc xuất_xứ , các chứng_thư giám_định chất_lượng ) đối_với từng lô lpg được nhập vào cửa_hàng . b ) lpg chai phải có nhãn hàng_hóa và bảo_đảm chất_lượng phù_hợp với tiêu_chuẩn công_bố .

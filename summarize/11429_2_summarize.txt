@@ -1,0 +1,1 @@
+summarize : tiền thuê là giá mua các tài_sản cho thuê . các khoản phải thu từ hợp_đồng cho thuê đó theo hợp_ đồng cho thuê và lãi mà bên thuê phải trả cho bên cho thuê theo hợp đồng .
