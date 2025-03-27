@@ -1,0 +1,3 @@
+1. người đứng đầu cơ quan có thẩm quyền tuyển_dụng công_chức phải gửi thông_báo_công_nhận kết quả trúng tuyển bằng văn_bản tới người dự_tuyển .
+summarize : trường hợp người trúng tuyển có "lý " chính_đáng mà không_thể đến hoàn_thiện hồ sơ dự_tuyển thì phải làm đơn xin gia_hạn trước khi kết thúc chương trình .
+summarize : trường hợp có từ 02 người trở lên có kết_quả tuyển_dụng thấp hơn liền kề bằng nhau thì người đứng đầu cơ quan có thẩm quyền quyết_định người trúng tuyển
